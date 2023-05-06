@@ -1,3 +1,18 @@
 # hello
-## i am paytondev (i guess technically paytontech since paytondev was taken)
-
+### i am paytondev (i guess technically paytontech since paytondev was taken - I prefer paytondev though, call me that)
+I have been programming since I was 11, so roughly ~4 years now.
+## Known Frameworks/Languages
+- ReactJS + derivatives (NextJS, Preact, etc.)
+- VueJS
+- SvelteKit
+- Electron
+- JavaScript + TypeScript
+- Swift + SwiftUI
+- Python
+- Go
+- Dart + Flutter
+## Contact
+You can contact me on the following platforms:
+- Twitter DMs ([@paytondev](https://twitter.com/paytondev))
+- Discord DMs (paytondev#8455)
+- Email ([paytondeveloper@gmail.com](mailto:paytondeveloper@gmail.com))
