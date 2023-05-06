@@ -2,7 +2,7 @@
 ### i am paytondev (i guess technically paytontech since paytondev was taken - I prefer paytondev though, call me that)
 I have been programming since I was 11, so roughly ~4 years now.
 ## Known Frameworks/Languages
-- ReactJS + derivatives (NextJS, Preact, etc.)
+- ReactJS + derivatives (NextJS, Preact, React Native, etc.)
 - VueJS
 - SvelteKit
 - Electron
