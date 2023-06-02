@@ -11,6 +11,7 @@ I have been programming since I was 11, so roughly ~4 years now.
 - Python
 - Go
 - Dart + Flutter
+- Lua & Luau
 ## Contact
 You can contact me on the following platforms:
 - Twitter DMs ([@paytondev](https://twitter.com/paytondev))
