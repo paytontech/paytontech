@@ -1,6 +1,6 @@
 # hello
 ### i am paytondev (i guess technically paytontech since paytondev was taken - I prefer paytondev though, call me that)
-I have been programming since I was 11, so roughly ~4 years now.
+I have been programming since I was 11, so roughly [NOT PUBLISHING MY AGE ON THE INTERNET] years now.
 ## Known Frameworks/Languages
 - ReactJS + derivatives (NextJS, Preact, React Native, etc.)
 - VueJS
