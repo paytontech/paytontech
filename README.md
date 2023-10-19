@@ -16,5 +16,5 @@ I have been programming since I was 11, so roughly [NOT PUBLISHING MY AGE ON THE
 ## Contact
 You can contact me on the following platforms:
 - Twitter DMs ([@paytondev](https://twitter.com/paytondev))
-- Discord DMs (paytondev#8455)
+- Discord DMs (paytondev)
 - Email ([paytondeveloper@gmail.com](mailto:paytondeveloper@gmail.com))
