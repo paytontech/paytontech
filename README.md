@@ -1,20 +1,18 @@
-# hello
-### i am paytondev (i guess technically paytontech since paytondev was taken - I prefer paytondev though, call me that)
-I have been programming since I was 11, so roughly [NOT PUBLISHING MY AGE ON THE INTERNET] years now.
-## Known Frameworks/Languages
-- ReactJS + derivatives (NextJS, Preact, React Native, etc.)
-- VueJS
-- SvelteKit
-- Electron
-- JavaScript + TypeScript
-- Swift + SwiftUI
-- Python
-- Go
-- Dart + Flutter
-- Lua & Luau
-- Not technically a language but In-depth knowledge of Linux
-## Contact
-You can contact me on the following platforms:
-- Twitter DMs ([@paytondev](https://twitter.com/paytondev))
-- Discord DMs (paytondev)
-- Email ([paytondeveloper@gmail.com](mailto:paytondeveloper@gmail.com))
+# paytondev
+currently building useful ai-driven tools @ ai owl.  
+previously @ nox. i make software that feels calm to use.
+
+### work
+- **spatialdock (visionos)** — minimal utility dock for vision pro. swiftui, tiny, opinionated.  
+- **unoweb_flutter** — a rewrite of uno that actually scales. flutter, firebase, real-time multiplayer.  
+- **chaos run** — an infinite runner where every obstacle is an event you can script.
+- *lots more in private repos!*
+
+### toolkit
+swift • dart/flutter • typescript/react • node/tauri • python • go • linux internals when unavoidable
+
+### values
+build small. think clearly. respect the user’s time.
+
+### contact
+[@paytondev](https://twitter.com/paytondev) / discord: paytondev / [email](mailto:paytondeveloper@gmail.com)
